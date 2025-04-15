@@ -1,0 +1,70 @@
+@page "/Survey"
+@using BlazorMediLab.Models
+@using Microsoft.AspNetCore.Components
+@using Microsoft.AspNetCore.Components.Forms
+
+@inject BlazorMediLab.Data.SurveyDbContext DbContext
+
+<h3>PHQ-2 Survey</h3>
+
+<EditForm Model="@model" OnValidSubmit="HandleValidSubmit" FormName="PHQ2Form">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <p>1. Little interest or pleasure in doing things:</p>
+    <InputRadioGroup @bind-Value="model.Question1">
+        @foreach (var option in options)
+        {
+            <div>
+                <InputRadio Value="@option.Value" /> @option.Text
+            </div>
+        }
+    </InputRadioGroup>
+
+    <p>2. Feeling down, depressed, or hopeless:</p>
+    <InputRadioGroup @bind-Value="model.Question2">
+        @foreach (var option in options)
+        {
+            <div>
+                <InputRadio Value="@option.Value" /> @option.Text
+            </div>
+        }
+    </InputRadioGroup>
+
+    <br />
+    <p><strong>Debug Preview:</strong> Q1 = @model.Question1, Q2 = @model.Question2</p>
+
+    <button type="submit">Submit</button>
+</EditForm>
+
+@if (submitted)
+{
+    <p><strong>Total Score:</strong> @model.TotalScore</p>
+}
+
+@code {
+    private PHQ2Model model = new();
+    private bool submitted = false;
+
+    private List<(int Value, string Text)> options = new()
+{
+(0, "Not at all (0)"),
+(1, "Several days (1)"),
+(2, "More than half the days (2)"),
+(3, "Nearly every day (3)")
+};
+
+    private async Task HandleValidSubmit()
+    {
+        Console.WriteLine($"Before TotalScore: Q1 = {model.Question1}, Q2 = {model.Question2}");
+
+        model.TotalScore = model.Question1 + model.Question2;
+        model.SubmittedAt = DateTime.Now;
+
+        Console.WriteLine($"Q1: {model.Question1}, Q2: {model.Question2}, Total: {model.TotalScore}");
+
+        DbContext.PHQ2Responses.Add(model);
+        await DbContext.SaveChangesAsync();
+        submitted = true;
+    }
+}

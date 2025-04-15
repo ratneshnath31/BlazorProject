@@ -1,0 +1,597 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net8.0/scopedcss/projectbundle/BlazorMediLab.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorMediLab.g14bj568ic.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/css/style.css",
+      "PackagePath": "staticwebassets/assetsMedilab/css/style.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/about.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/about.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/assetsMedilab/img/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/departments-1.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/departments-1.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/departments-2.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/departments-2.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/departments-3.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/departments-3.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/departments-4.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/departments-4.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/departments-5.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/departments-5.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/doctors/doctors-1.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/doctors/doctors-1.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/doctors/doctors-2.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/doctors/doctors-2.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/doctors/doctors-3.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/doctors/doctors-3.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/doctors/doctors-4.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/doctors/doctors-4.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/favicon.png",
+      "PackagePath": "staticwebassets/assetsMedilab/img/favicon.png"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/gallery/gallery-1.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/gallery/gallery-1.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/gallery/gallery-2.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/gallery/gallery-2.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/gallery/gallery-3.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/gallery/gallery-3.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/gallery/gallery-4.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/gallery/gallery-4.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/gallery/gallery-5.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/gallery/gallery-5.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/gallery/gallery-6.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/gallery/gallery-6.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/gallery/gallery-7.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/gallery/gallery-7.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/gallery/gallery-8.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/gallery/gallery-8.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/hero-bg.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/hero-bg.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/testimonials/testimonials-1.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/testimonials/testimonials-1.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/testimonials/testimonials-2.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/testimonials/testimonials-2.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/testimonials/testimonials-3.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/testimonials/testimonials-3.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/testimonials/testimonials-4.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/testimonials/testimonials-4.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/img/testimonials/testimonials-5.jpg",
+      "PackagePath": "staticwebassets/assetsMedilab/img/testimonials/testimonials-5.jpg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/js/main.js",
+      "PackagePath": "staticwebassets/assetsMedilab/js/main.js"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/scss/Readme.txt",
+      "PackagePath": "staticwebassets/assetsMedilab/scss/Readme.txt"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/animate.css/animate.compat.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/animate.css/animate.compat.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/animate.css/animate.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/animate.css/animate.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/animate.css/animate.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/animate.css/animate.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap-icons/bootstrap-icons.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap-icons/bootstrap-icons.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap-icons/bootstrap-icons.json",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap-icons/bootstrap-icons.json"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap-icons/bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap-icons/bootstrap-icons.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap-icons/bootstrap-icons.scss",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap-icons/bootstrap-icons.scss"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap-icons/fonts/bootstrap-icons.woff"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/boxicons/css/animations.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/boxicons/css/animations.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/boxicons/css/boxicons.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/boxicons/css/boxicons.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/boxicons/css/boxicons.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/boxicons/css/boxicons.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/boxicons/css/transformations.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/boxicons/css/transformations.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/boxicons/fonts/boxicons.eot",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/boxicons/fonts/boxicons.eot"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/boxicons/fonts/boxicons.svg",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/boxicons/fonts/boxicons.svg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/boxicons/fonts/boxicons.ttf",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/boxicons/fonts/boxicons.ttf"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/boxicons/fonts/boxicons.woff",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/boxicons/fonts/boxicons.woff"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/boxicons/fonts/boxicons.woff2",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/boxicons/fonts/boxicons.woff2"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/all.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/all.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/all.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/all.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/brands.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/brands.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/brands.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/brands.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/fontawesome.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/fontawesome.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/fontawesome.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/fontawesome.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/regular.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/regular.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/regular.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/regular.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/solid.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/solid.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/solid.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/solid.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/svg-with-js.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/svg-with-js.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/svg-with-js.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/svg-with-js.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/v4-font-face.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/v4-font-face.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/v4-font-face.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/v4-font-face.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/v4-shims.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/v4-shims.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/v4-shims.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/v4-shims.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/v5-font-face.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/v5-font-face.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/css/v5-font-face.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/css/v5-font-face.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/webfonts/fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/fontawesome-free/webfonts/fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/glightbox/css/glightbox.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/glightbox/css/glightbox.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/glightbox/css/glightbox.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/glightbox/css/glightbox.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/glightbox/css/plyr.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/glightbox/css/plyr.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/glightbox/css/plyr.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/glightbox/css/plyr.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/glightbox/js/glightbox.js",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/glightbox/js/glightbox.js"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/glightbox/js/glightbox.min.js",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/glightbox/js/glightbox.min.js"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/php-email-form/validate.js",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/php-email-form/validate.js"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/purecounter/purecounter_vanilla.js",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/purecounter/purecounter_vanilla.js"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/purecounter/purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/purecounter/purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/remixicon/remixicon.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/remixicon/remixicon.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/remixicon/remixicon.eot",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/remixicon/remixicon.eot"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/remixicon/remixicon.glyph.json",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/remixicon/remixicon.glyph.json"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/remixicon/remixicon.less",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/remixicon/remixicon.less"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/remixicon/remixicon.svg",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/remixicon/remixicon.svg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/remixicon/remixicon.symbol.svg",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/remixicon/remixicon.symbol.svg"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/remixicon/remixicon.ttf",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/remixicon/remixicon.ttf"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/remixicon/remixicon.woff",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/remixicon/remixicon.woff"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/remixicon/remixicon.woff2",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/remixicon/remixicon.woff2"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/swiper/swiper-bundle.min.css",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/swiper/swiper-bundle.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/swiper/swiper-bundle.min.js",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/swiper/swiper-bundle.min.js"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/swiper/swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets/assetsMedilab/vendor/swiper/swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazorMediLab.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazorMediLab.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazorMediLab.props",
+      "PackagePath": "build\\BlazorMediLab.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazorMediLab.props",
+      "PackagePath": "buildMultiTargeting\\BlazorMediLab.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazorMediLab.props",
+      "PackagePath": "buildTransitive\\BlazorMediLab.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
