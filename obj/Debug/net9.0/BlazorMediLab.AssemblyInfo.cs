@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorMediLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2ae95fd5184d38a265e71dd5297208849456201")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5992f8e258c905b91911215cff16b53ec7a1b7c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorMediLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorMediLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
