@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c3afHuwfdGGBOgELYJdN/6SNsZi8MzvFUnJ4przN/mc=",
+  "Hash": "YIgmHWfEJvZ6wchJhrK/PGFdNr5wIheU0rGXMGdrzBM=",
   "Source": "BlazorMediLab",
   "BasePath": "_content/BlazorMediLab",
   "Mode": "Default",
@@ -1382,12 +1382,12 @@
       "OriginalItemSpec": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/purecounter/purecounter_vanilla.js.map"
     },
     {
-      "Identity": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/pt02dzy7gg-g14bj568ic.gz",
+      "Identity": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/pt02dzy7gg-sckhe3g73o.gz",
       "SourceId": "BlazorMediLab",
       "SourceType": "Computed",
       "ContentRoot": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/BlazorMediLab",
-      "RelativePath": "BlazorMediLab#[.{fingerprint=g14bj568ic}]?.styles.css.gz",
+      "RelativePath": "BlazorMediLab#[.{fingerprint=sckhe3g73o}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/scopedcss/bundle/BlazorMediLab.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qsleth75ew",
-      "Integrity": "JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI=",
+      "Fingerprint": "pwccb3qo7e",
+      "Integrity": "WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/scopedcss/bundle/BlazorMediLab.styles.css"
@@ -1844,12 +1844,12 @@
       "OriginalItemSpec": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/wwwroot/assetsMedilab/vendor/bootstrap/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/wmcsy9viky-g14bj568ic.gz",
+      "Identity": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/wmcsy9viky-sckhe3g73o.gz",
       "SourceId": "BlazorMediLab",
       "SourceType": "Computed",
       "ContentRoot": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/BlazorMediLab",
-      "RelativePath": "BlazorMediLab#[.{fingerprint=g14bj568ic}]!.bundle.scp.css.gz",
+      "RelativePath": "BlazorMediLab#[.{fingerprint=sckhe3g73o}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -1858,8 +1858,8 @@
       "RelatedAsset": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/scopedcss/projectbundle/BlazorMediLab.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qsleth75ew",
-      "Integrity": "JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI=",
+      "Fingerprint": "pwccb3qo7e",
+      "Integrity": "WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/scopedcss/projectbundle/BlazorMediLab.bundle.scp.css"
@@ -2068,8 +2068,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "g14bj568ic",
-      "Integrity": "NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg=",
+      "Fingerprint": "sckhe3g73o",
+      "Integrity": "TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/scopedcss/bundle/BlazorMediLab.styles.css"
@@ -2089,8 +2089,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "g14bj568ic",
-      "Integrity": "NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg=",
+      "Fingerprint": "sckhe3g73o",
+      "Integrity": "TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/scopedcss/projectbundle/BlazorMediLab.bundle.scp.css"
@@ -36567,12 +36567,12 @@
     },
     {
       "Route": "BlazorMediLab.bundle.scp.css",
-      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/wmcsy9viky-g14bj568ic.gz",
+      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/wmcsy9viky-sckhe3g73o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000575373993"
+          "Quality": "0.000571428571"
         }
       ],
       "ResponseHeaders": [
@@ -36582,15 +36582,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1737"
+          "Value": "1749"
         },
         {
           "Name": "ETag",
-          "Value": "\"JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI=\""
+          "Value": "\"WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:27:21 GMT"
+          "Value": "Thu, 17 Apr 2025 15:57:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36610,13 +36610,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg=\""
+          "Value": "W/\"TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg="
+          "Value": "sha256-TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s="
         }
       ]
     },
@@ -36631,7 +36631,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5706"
+          "Value": "5729"
         },
         {
           "Name": "Content-Type",
@@ -36639,11 +36639,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg=\""
+          "Value": "\"TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:27:21 GMT"
+          "Value": "Thu, 17 Apr 2025 15:57:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36653,13 +36653,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg="
+          "Value": "sha256-TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s="
         }
       ]
     },
     {
       "Route": "BlazorMediLab.bundle.scp.css.gz",
-      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/wmcsy9viky-g14bj568ic.gz",
+      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/wmcsy9viky-sckhe3g73o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -36668,7 +36668,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1737"
+          "Value": "1749"
         },
         {
           "Name": "Content-Type",
@@ -36676,11 +36676,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI=\""
+          "Value": "\"WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:27:21 GMT"
+          "Value": "Thu, 17 Apr 2025 15:57:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36698,18 +36698,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI="
+          "Value": "sha256-WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c="
         }
       ]
     },
     {
-      "Route": "BlazorMediLab.g14bj568ic.bundle.scp.css",
-      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/wmcsy9viky-g14bj568ic.gz",
+      "Route": "BlazorMediLab.sckhe3g73o.bundle.scp.css",
+      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/wmcsy9viky-sckhe3g73o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000575373993"
+          "Quality": "0.000571428571"
         }
       ],
       "ResponseHeaders": [
@@ -36719,15 +36719,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1737"
+          "Value": "1749"
         },
         {
           "Name": "ETag",
-          "Value": "\"JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI=\""
+          "Value": "\"WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:27:21 GMT"
+          "Value": "Thu, 17 Apr 2025 15:57:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36747,13 +36747,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg=\""
+          "Value": "W/\"TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g14bj568ic"
+          "Value": "sckhe3g73o"
         },
         {
           "Name": "label",
@@ -36761,12 +36761,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg="
+          "Value": "sha256-TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s="
         }
       ]
     },
     {
-      "Route": "BlazorMediLab.g14bj568ic.bundle.scp.css",
+      "Route": "BlazorMediLab.sckhe3g73o.bundle.scp.css",
       "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/scopedcss/projectbundle/BlazorMediLab.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -36776,7 +36776,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5706"
+          "Value": "5729"
         },
         {
           "Name": "Content-Type",
@@ -36784,11 +36784,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg=\""
+          "Value": "\"TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:27:21 GMT"
+          "Value": "Thu, 17 Apr 2025 15:57:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36798,7 +36798,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g14bj568ic"
+          "Value": "sckhe3g73o"
         },
         {
           "Name": "label",
@@ -36806,13 +36806,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg="
+          "Value": "sha256-TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s="
         }
       ]
     },
     {
-      "Route": "BlazorMediLab.g14bj568ic.bundle.scp.css.gz",
-      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/wmcsy9viky-g14bj568ic.gz",
+      "Route": "BlazorMediLab.sckhe3g73o.bundle.scp.css.gz",
+      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/wmcsy9viky-sckhe3g73o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -36821,7 +36821,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1737"
+          "Value": "1749"
         },
         {
           "Name": "Content-Type",
@@ -36829,11 +36829,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI=\""
+          "Value": "\"WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:27:21 GMT"
+          "Value": "Thu, 17 Apr 2025 15:57:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36851,7 +36851,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g14bj568ic"
+          "Value": "sckhe3g73o"
         },
         {
           "Name": "label",
@@ -36859,18 +36859,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI="
+          "Value": "sha256-WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c="
         }
       ]
     },
     {
-      "Route": "BlazorMediLab.g14bj568ic.styles.css",
-      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/pt02dzy7gg-g14bj568ic.gz",
+      "Route": "BlazorMediLab.sckhe3g73o.styles.css",
+      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/pt02dzy7gg-sckhe3g73o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000575373993"
+          "Quality": "0.000571428571"
         }
       ],
       "ResponseHeaders": [
@@ -36880,15 +36880,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1737"
+          "Value": "1749"
         },
         {
           "Name": "ETag",
-          "Value": "\"JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI=\""
+          "Value": "\"WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:27:21 GMT"
+          "Value": "Thu, 17 Apr 2025 15:57:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36908,13 +36908,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg=\""
+          "Value": "W/\"TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g14bj568ic"
+          "Value": "sckhe3g73o"
         },
         {
           "Name": "label",
@@ -36922,12 +36922,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg="
+          "Value": "sha256-TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s="
         }
       ]
     },
     {
-      "Route": "BlazorMediLab.g14bj568ic.styles.css",
+      "Route": "BlazorMediLab.sckhe3g73o.styles.css",
       "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/scopedcss/bundle/BlazorMediLab.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -36937,7 +36937,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5706"
+          "Value": "5729"
         },
         {
           "Name": "Content-Type",
@@ -36945,11 +36945,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg=\""
+          "Value": "\"TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:27:21 GMT"
+          "Value": "Thu, 17 Apr 2025 15:57:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36959,7 +36959,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g14bj568ic"
+          "Value": "sckhe3g73o"
         },
         {
           "Name": "label",
@@ -36967,13 +36967,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg="
+          "Value": "sha256-TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s="
         }
       ]
     },
     {
-      "Route": "BlazorMediLab.g14bj568ic.styles.css.gz",
-      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/pt02dzy7gg-g14bj568ic.gz",
+      "Route": "BlazorMediLab.sckhe3g73o.styles.css.gz",
+      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/pt02dzy7gg-sckhe3g73o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -36982,7 +36982,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1737"
+          "Value": "1749"
         },
         {
           "Name": "Content-Type",
@@ -36990,11 +36990,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI=\""
+          "Value": "\"WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:27:21 GMT"
+          "Value": "Thu, 17 Apr 2025 15:57:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37012,7 +37012,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g14bj568ic"
+          "Value": "sckhe3g73o"
         },
         {
           "Name": "label",
@@ -37020,18 +37020,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI="
+          "Value": "sha256-WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c="
         }
       ]
     },
     {
       "Route": "BlazorMediLab.styles.css",
-      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/pt02dzy7gg-g14bj568ic.gz",
+      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/pt02dzy7gg-sckhe3g73o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000575373993"
+          "Quality": "0.000571428571"
         }
       ],
       "ResponseHeaders": [
@@ -37041,15 +37041,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1737"
+          "Value": "1749"
         },
         {
           "Name": "ETag",
-          "Value": "\"JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI=\""
+          "Value": "\"WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:27:21 GMT"
+          "Value": "Thu, 17 Apr 2025 15:57:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37069,13 +37069,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg=\""
+          "Value": "W/\"TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg="
+          "Value": "sha256-TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s="
         }
       ]
     },
@@ -37090,7 +37090,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5706"
+          "Value": "5729"
         },
         {
           "Name": "Content-Type",
@@ -37098,11 +37098,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg=\""
+          "Value": "\"TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:27:21 GMT"
+          "Value": "Thu, 17 Apr 2025 15:57:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37112,13 +37112,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NHDCD7Sn0Zs83RsVu4qMWeM3sWV6JdSyqaQJO/MTGwg="
+          "Value": "sha256-TPuqZqaIlCkVgc38zYPBEKVR0Vy7373J/fcDFYiin5s="
         }
       ]
     },
     {
       "Route": "BlazorMediLab.styles.css.gz",
-      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/pt02dzy7gg-g14bj568ic.gz",
+      "AssetFile": "/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/pt02dzy7gg-sckhe3g73o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -37127,7 +37127,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1737"
+          "Value": "1749"
         },
         {
           "Name": "Content-Type",
@@ -37135,11 +37135,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI=\""
+          "Value": "\"WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:27:21 GMT"
+          "Value": "Thu, 17 Apr 2025 15:57:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37157,7 +37157,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JskKTAKqfC+fZ/qaREm/yGn1mAJOH3qLvOBeI4WhJHI="
+          "Value": "sha256-WUPPaFoq+yEMeUpLgoYa2GzL97wHoUbatMkUhVgvB1c="
         }
       ]
     },

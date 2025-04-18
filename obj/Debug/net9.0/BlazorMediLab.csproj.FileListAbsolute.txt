@@ -242,8 +242,6 @@
 /Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/zn8fs9pjk8-keq3rhgquj.gz
 /Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/qyp4goqv6s-bpk8xqwxhs.gz
 /Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/w57g6bod4d-8inm30yfxf.gz
-/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/pt02dzy7gg-g14bj568ic.gz
-/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/wmcsy9viky-g14bj568ic.gz
 /Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/staticwebassets.build.json
 /Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/staticwebassets.development.json
 /Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -259,3 +257,6 @@
 /Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/BlazorMediLab.pdb
 /Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/BlazorMediLab.genruntimeconfig.cache
 /Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/ref/BlazorMediLab.dll
+/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/BlazorMediLab.sourcelink.json
+/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/pt02dzy7gg-sckhe3g73o.gz
+/Users/ratneshnath/Downloads/Nikaya-master/BlazorMediLab/obj/Debug/net9.0/compressed/wmcsy9viky-sckhe3g73o.gz
