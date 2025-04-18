@@ -5,77 +5,103 @@
 @inject BlazorMediLab.Data.SurveyDbContext DbContext
 @rendermode InteractiveServer
 
-@* <h3>PHQ-2 Survey</h3>
+<h3>PHQ-2 Survey</h3>
 
-<EditForm Model="@model" OnValidSubmit="HandleValidSubmit" FormName="PHQ2Form">
+<EditForm Model="@model" OnValidSubmit="HandleValidSubmit">
     <DataAnnotationsValidator />
     <ValidationSummary />
 
-    <p>1. Little interest or pleasure in doing things:</p>
-    <InputRadioGroup TValue="int" @bind-Value="model.Question1">
-        @foreach (var option in options)
-        {
-            <div>
-                <InputRadio Value="@option.Value" /> @option.Text
-            </div>
-        }
-    </InputRadioGroup>
+    <table class="table table-bordered text-center">
+        <thead>
+            <tr>
+                <th></th>
+                @foreach (var option in options)
+                {
+                    <th>@option.Text</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1. Little interest or pleasure in doing things</td>
+                @foreach (var option in options)
+                {
+                    <td>
+                        <InputRadioGroup @bind-Value="model.Question1">
+                            <InputRadio Value="@option.Value" />
+                        </InputRadioGroup>
+                    </td>
+                }
+            </tr>
+            <tr>
+                <td>2. Feeling down, depressed, or hopeless</td>
+                @foreach (var option in options)
+                {
+                    <td>
+                        <InputRadioGroup @bind-Value="model.Question2">
+                            <InputRadio Value="@option.Value" />
+                        </InputRadioGroup>
+                    </td>
+                }
+            </tr>
+        </tbody>
+    </table>
 
-    <p>2. Feeling down, depressed, or hopeless:</p>
-    <InputRadioGroup TValue="int" @bind-Value="model.Question2">
-        @foreach (var option in options)
-        {
-            <div>
-                <InputRadio Value="@option.Value" /> @option.Text
-            </div>
-        }
-    </InputRadioGroup>
-
-    <br />
-    <p><strong>Debug Preview:</strong> Q1 = @model.Question1, Q2 = @model.Question2</p>
-
-    <button type="submit">Submit</button>
+    <button class="btn btn-primary mt-3" type="submit">Submit</button>
 </EditForm>
 
 @if (submitted)
 {
-    <p><strong>Total Score:</strong> @model.TotalScore</p>
+    <div class="alert alert-success mt-3">
+        Form submitted successfully. Thank you for your time.
+    </div>
+
+    <p class="mt-3"><strong>Total Score:</strong> @lastSubmittedScore</p>
 }
 
 @code {
-    [SupplyParameterFromForm]
-    private PHQ2Model model { get; set; } = new();
+    private PHQ2Model model = new();
     private bool submitted = false;
+    private int lastSubmittedScore = 0;
 
     private List<(int Value, string Text)> options = new()
 {
-(0, "Not at all (0)"),
-(1, "Several days (1)"),
-(2, "More than half the days (2)"),
-(3, "Nearly every day (3)")
+(0, "Not at all"),
+(1, "Several days"),
+(2, "More than half the days"),
+(3, "Nearly every day")
 };
 
     private async Task HandleValidSubmit()
     {
-        Console.WriteLine($"Before TotalScore: Q1 = {model.Question1}, Q2 = {model.Question2}");
-
         model.TotalScore = model.Question1 + model.Question2;
         model.SubmittedAt = DateTime.Now;
 
-        Console.WriteLine($"Q1: {model.Question1}, Q2: {model.Question2}, Total: {model.TotalScore}");
-
         DbContext.PHQ2Responses.Add(model);
         await DbContext.SaveChangesAsync();
+
+        // Store the score before resetting the form
+        lastSubmittedScore = model.TotalScore;
+
         submitted = true;
         model = new PHQ2Model();
-        StateHasChanged();
     }
 }
 
 
-@page "/Survey"
+
+
+
+
+
+
+@* @page "/Survey"
 @using BlazorMediLab.Models
-@inject BlazorMediLab.Data.SurveyDbContext DbContext *@
+@using Microsoft.AspNetCore.Components
+@using Microsoft.AspNetCore.Components.Forms
+@inject BlazorMediLab.Data.SurveyDbContext DbContext
+@rendermode InteractiveServer
+
 
 <h3>PHQ-2 Survey</h3>
 
@@ -150,4 +176,4 @@
         submitted = true;
         model = new PHQ2Model();
     }
-}
+} *@
